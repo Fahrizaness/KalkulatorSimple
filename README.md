@@ -1,5 +1,4 @@
 # KalkulatorSimple
-# Kalkulator Sederhana
 
 ## Deskripsi
 Kalkulator Sederhana adalah aplikasi berbasis web yang memungkinkan pengguna melakukan perhitungan matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian. Proyek ini dibuat sebagai bagian dari Capstone Project untuk program Student Developer Initiative dengan bantuan AI selama proses pengembangan.
